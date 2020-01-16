@@ -1,0 +1,9 @@
+name: base
+channels:
+  - defaults
+dependencies:
+  - matplotlib=3.1.1=py37hc8f65d3_0
+  - numpy=1.16.5=py37h19fb1c0_0
+  - numpy-base=1.16.5=py37hc3f5095_0
+  - pandas=0.25.1=py37ha925a31_0
+  - tk=8.6.8=hfa6e2cd_0
