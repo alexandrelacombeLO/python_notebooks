@@ -4,4 +4,4 @@ dependencies:
   - matplotlib
   - numpy
   - pandas
-  - tkinter
+  - tk
