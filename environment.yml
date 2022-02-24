@@ -1,6 +1,13 @@
 name: base
 
 dependencies:
+  - base64
+  - io
+  - pathlib
   - matplotlib
   - numpy
   - pandas
+  - dash
+  - sklearn
+  - scipy
+  - plotly
